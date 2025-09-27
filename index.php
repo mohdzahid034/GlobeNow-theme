@@ -8,13 +8,13 @@
 <body>  
 
 <header>
-    <h1>GlobeNow.in</h1>
+    <h1>GlobeNow</h1>
     <p>Your daily dose of news from sports, countries, governments, and more!</p>
 </header>
 
 <main>
     <article>
-        <h2>Sample</h2>
+        <h2>Sample News Title</h2>
         <p>This is a sample news article. Replace this with your latest news content.</p>
     </article>
 
