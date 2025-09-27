@@ -8,7 +8,7 @@
 <body>  
 
 <header>
-    <h1>GlobeNow</h1>
+    <h1>Zahid</h1>
     <p>Your daily dose of news from sports, countries, governments, and more!</p>
 </header>
 
