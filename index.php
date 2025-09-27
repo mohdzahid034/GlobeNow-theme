@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>GlobeNow - Daily News</title>
+    <title>GlobeNow</title>
     <link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>">
 </head>
 <body>  
