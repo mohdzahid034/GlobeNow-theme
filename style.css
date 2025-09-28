@@ -1,43 +1,11 @@
 /*
 Theme Name: GlobeNow
-Theme URI: https://darksalmon-sandpiper-137319.hostingersite.com
-Author: Mohd Zahid
-Author URI: https://darksalmon-sandpiper-137319.hostingersite.com
-Description: A custom WordPress theme.
+Theme URI: https://yourdomain.com
+Author: Your Name
+Author URI: https://yourwebsite.com
+Description: A simple custom WordPress theme for testing auto-deploy.
 Version: 1.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: globenow
 */
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #e9e9e9;
-}
-
-header {
-    background-color: #0073aa;
-    color: white;
-    padding: 20px;
-    text-align: center;
-}
-
-main {
-    padding: 20px;
-}
-
-article {
-    background-color: white;
-    padding: 15px;
-    margin-bottom: 20px;
-    border-radius: 5px;
-    box-shadow: 0 0 5px rgba(0,0,0,0.1);
-}
-
-footer {
-    text-align: center;
-    padding: 15px;
-    background-color: #222;
-    color: white;
-}
